@@ -1,0 +1,42 @@
+---
+layout: splash
+header:
+  overlay_color: "#4a69bd"  # 짙은 네이비 블루
+  overlay_filter: "0.3"
+  <!-- overlay_image: /assets/images/about/.png -->
+  actions:
+    - label: "Enter Site"
+      url: "/about/lab/"
+excerpt: "인하대학교 로봇 지능 학습 및 시스템 연구실"
+feature_row:
+  - image_path: /assets/images/home/rl.png
+    alt: "Reinforcement Learning"
+    title: "Reinforcement Learning"
+    excerpt: "Robots imitating human actions using RL"
+    url: "/about/research-area/#reinforcement-learning"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/home/vision.png
+    alt: "Deep Learning Vision"
+    title: "Deep Learning Vision"
+    excerpt: "Robust and Efficient vision systems for robots"
+    url: "/about/research-area/#deep-learning-vision"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/home/robot.png
+    alt: "Robotics"
+    title: "Robotics"
+    excerpt: "Applying AI to real-world robotic systems"
+    url: "/about/research-area/#robotics"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+---
+
+{% include feature_row %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent News" }}</h3>
+
+{% for post in site.posts limit:5 %}
+  {% include archive-single.html %}
+{% endfor %}
+

@@ -1,0 +1,13 @@
+{% assign image_path = include.image | default: "/assets/images/bio-photo.jpg" %}
+<div class="student-profile">
+  <div class="profile-image">
+    <img src="{{ image_path }}" alt="{{ include.name }}">
+  </div>
+  <div class="profile-info">
+    <h3>{{ include.name }}</h3>
+    <ul>
+      <li><strong>Email:</strong> {{ include.email }}</li>
+      <li><strong>Research Interests:</strong> {{ include.interests }}</li>
+    </ul>
+  </div>
+</div>

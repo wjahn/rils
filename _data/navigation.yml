@@ -1,0 +1,116 @@
+# main navigation (상단 메뉴)
+main:
+  - title: "About"
+    url: /about/lab/
+    children:
+      - title: "RILS Lab"
+        url: /about/lab/
+      - title: "Research Area"
+        url: /about/research-area/
+      - title: "Join Us"
+        url: /about/join-us/
+      - title: "Contact"
+        url: /about/contact/
+  - title: "Members"
+    url: /members/professor/
+    children:
+      - title: "Professor"
+        url: /members/professor/
+      - title: "Students"
+        url: /members/students/
+      - title: "Alumni"
+        url: /members/alumni/
+  - title: "Publications"
+    url: /publications/international/
+    children:
+      - title: "International Publication"
+        url: /publications/international/
+      - title: "Domestic Publication"
+        url: /publications/domestic/
+      - title: "Patent"
+        url: /publications/patent/
+  - title: "Project"
+    url: /project/
+  - title: "Notice"
+    url: /notice/news/
+    children:
+      - title: "News"
+        url: /notice/news/
+      - title: "Gallery"
+        url: /notice/gallery/
+      # - title: "Board"
+      #   url: /notice/board/
+
+# About 섹션의 사이드바 네비게이션
+about-nav:
+  - title: "RILS Lab"
+    url: /about/lab/
+  - title: "Research Area"
+    url: /about/research-area/
+    children:
+      - title: "Reinforcement Learning"
+        url: /about/research-area/#reinforcement-learning
+      - title: "Deep Learning Vision"
+        url: /about/research-area/#deep-learning-vision
+      - title: "Robotics"
+        url: /about/research-area/#robotics
+  - title: "Join Us"
+    url: /about/join-us/
+  - title: "Contact"
+    url: /about/contact/
+
+# Members 섹션의 사이드바 네비게이션
+members-nav:
+  - title: "Professor"
+    url: /members/professor/
+  - title: "Students"
+    url: /members/students/
+    children:
+      - title: "Ph.D Course"
+        url: /members/students/#phd-course/
+      - title: "Master Course"
+        url: /members/students/#master-course/
+  - title: "Alumni"
+    url: /members/alumni/
+    children:
+      - title: "Ph.D Graduates"
+        url: /members/alumni/#phd-graduates
+      - title: "Master Graduates"
+        url: /members/alumni/#master-graduates
+
+# Publications 섹션의 사이드바 네비게이션
+publications-nav:
+ - title: "International Publication"
+   url: /publications/international/
+   children:
+     - title: "Journal & Top Conference"
+       url: /publications/international/#international-journal--top-conference
+     - title: "Conference"
+       url: /publications/international/#international-conference
+ - title: "Domestic Publication"
+   url: /publications/domestic/
+   children:
+     - title: "Journal"
+       url: /publications/domestic/#domestic-journal  
+     - title: "Conference"
+       url: /publications/domestic/#domestic-conference
+ - title: "Patent"
+   url: /publications/patent/
+
+Project-nav:
+  - title: "Project"
+    url: /project/
+    children:
+      - title: "Current Projects"
+        url: /project/#current-projects
+      - title: "Completed Projects"
+        url: /project/#completed-orojects
+
+# Notice 섹션의 사이드바 네비게이션
+notice-nav:
+  - title: "News"
+    url: /notice/news/
+  - title: "Gallery"
+    url: /notice/gallery/
+  # - title: "Board"
+  #   url: /notice/board/
