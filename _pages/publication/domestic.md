@@ -1,7 +1,7 @@
 ---
 title: "Domestic Publications"
 layout: single
-permalink: /publications/domestic
+permalink: /publications/domestic/
 sidebar:
  nav: "publications-nav"
 classes: wide
