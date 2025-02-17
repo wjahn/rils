@@ -45,7 +45,7 @@ h2 {
 
 <div class="professor-profile">
   <div class="profile-image">
-    <img src="/assets/images/members/professor/prof.jpg" alt="Professor Name">
+    <img src="assets/images/members/professor/prof.jpg" alt="Professor Name">
   </div>
   <div class="profile-info">
     <h2>Woo-Jin Ahn (안우진)</h2>
