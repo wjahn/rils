@@ -17,7 +17,7 @@ Our research in reinforcement learning focuses on developing intelligent agents 
 - Inverse RL
 
 <figure>
-  <img src="/assets/images/about/rl-imitation.png" alt="Imitation Learning" style="width: 100%; border-radius: 10px;">
+  <img src="assets/images/about/rl-imitation.png" alt="Imitation Learning" style="width: 100%; border-radius: 10px;">
 </figure>
 
 ### Embodied AI
@@ -26,7 +26,7 @@ Our research in reinforcement learning focuses on developing intelligent agents 
 - Model Approximation
 
 <figure>
-  <img src="/assets/images/about/rl-embodied.png" alt="Embodied AI" style="width: 100%; border-radius: 10px;">
+  <img src="assets/images/about/rl-embodied.png" alt="Embodied AI" style="width: 100%; border-radius: 10px;">
 </figure>
 
 ## Deep Learning Vision
@@ -39,7 +39,7 @@ We focus on developing robust and efficient vision systems for robots, enabling 
 - Panoptic Segmentation
 
 <figure>
-  <img src="/assets/images/about/vision-perception.png" alt="Perception" style="width: 100%; border-radius: 10px;">
+  <img src="assets/images/about/vision-perception.png" alt="Perception" style="width: 100%; border-radius: 10px;">
 </figure>
 
 ### Robust Vision
@@ -48,7 +48,7 @@ We focus on developing robust and efficient vision systems for robots, enabling 
 - Domain Generalization
 
 <figure>
-  <img src="/assets/images/about/vision-domain.png" alt="Robust Vision" style="width: 100%; border-radius: 10px;">
+  <img src="assets/images/about/vision-domain.png" alt="Robust Vision" style="width: 100%; border-radius: 10px;">
 </figure>
 
 ### Efficient Vision
@@ -56,7 +56,7 @@ We focus on developing robust and efficient vision systems for robots, enabling 
 - Knowledge Distillation
 
 <figure>
-  <img src="/assets/images/about/vision-efficient.png" alt="Efficient Vision" style="width: 100%; border-radius: 10px;">
+  <img src="assets/images/about/vision-efficient.png" alt="Efficient Vision" style="width: 100%; border-radius: 10px;">
 </figure>
 
 
