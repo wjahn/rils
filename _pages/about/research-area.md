@@ -69,5 +69,5 @@ Our robotics research focuses on applying our advances in reinforcement learning
 - Manufacturing System
 
 <figure>
-  <img src="/https://wjahn.github.io/rils/assets/images/about/robot.png" alt="Robotics" style="width: 100%; border-radius: 10px;">
+  <img src="https://wjahn.github.io/rils/assets/images/about/robot.png" alt="Robotics" style="width: 100%; border-radius: 10px;">
 </figure>
