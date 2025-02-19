@@ -155,7 +155,7 @@ classes: wide
 ## International Conference
 
 <div class="pub-container">
- <div class="pub-number">[6]</div>
+ <div class="pub-number">[7]</div>
  <div class="pub-content">
    <div class="pub-title"> Limited Field of View-Driven Path Planning for Human Search in Indoor Environments</div>
    <div class="pub-authors">Jeong-Seop Park, Miyoung Sim, Yong Jun Lee, <strong>Woo-Jin Ahn</strong>, Jong Jin Woo, Myo Taeg Lim</div>
@@ -164,7 +164,7 @@ classes: wide
 </div>
 
 <div class="pub-container">
- <div class="pub-number">[5]</div>
+ <div class="pub-number">[6]</div>
  <div class="pub-content">
    <div class="pub-title">Reinforcement Learning Based Pallet Loading Algorithm and Its Application to a Real Manipulator System</div>
    <div class="pub-authors">Seong Woo Kang†, Ye Rin Min†, Kyuwon Choi†, <strong>Woo-Jin Ahn†</strong>, Sang Ryul Baek, Dae Woo Choi, Myo Taeg Lim</div>
@@ -173,7 +173,7 @@ classes: wide
 </div>
 
 <div class="pub-container">
- <div class="pub-number">[4]</div>
+ <div class="pub-number">[5]</div>
  <div class="pub-content">
    <div class="pub-title">Research Trend Analysis of Multi-Task Behavior Cloning for Robot Manipulation</div>
    <div class="pub-authors">Sung-Gil Park, <strong>Woo-Jin Ahn</strong>, Seong-Woo Kang, Myo-Taeg Lim</div>
@@ -182,7 +182,7 @@ classes: wide
 </div>
 
 <div class="pub-container">
- <div class="pub-number">[3]</div>
+ <div class="pub-number">[4]</div>
  <div class="pub-content">
    <div class="pub-title">Improving Vision Transformer with Multi-Task Training</div>
    <div class="pub-authors"><strong>Woo-Jin Ahn</strong>, Geun Yeong Yang, Hyun Duck Choi, Myo Taeg Lim, Tae Koo Kang</div>
@@ -191,7 +191,7 @@ classes: wide
 </div>
 
 <div class="pub-container">
- <div class="pub-number">[2]</div>
+ <div class="pub-number">[3]</div>
  <div class="pub-content">
    <div class="pub-title">Shadow Removal using GTA Road Dataset</div>
    <div class="pub-authors">Geon Kang, <strong>Woo-Jin Ahn</strong>, Hyunduck Choi, Myotaeg Lim</div>
@@ -200,10 +200,19 @@ classes: wide
 </div>
 
 <div class="pub-container">
- <div class="pub-number">[1]</div>
+ <div class="pub-number">[2]</div>
  <div class="pub-content">
    <div class="pub-title">Re-identification for multi-object tracking using triplet loss</div>
    <div class="pub-authors">Koung-Suk Ko, <strong>Woo-Jin Ahn</strong>, Geon-Hee Kim, Myo-Taeg Lim, Tae-Koo Kang, Dong-Sung Pae</div>
    <div class="pub-venue">International Conference on Information Networking (ICOIN), 2021</div>
+ </div>
+</div>
+
+<div class="pub-container">
+ <div class="pub-number">[1]</div>
+ <div class="pub-content">
+   <div class="pub-title">Vehicle Positioning System using V2X that Combines V2V and V2I Communications</div>
+   <div class="pub-authors">Geon-Hee Kim, Dong-Sung Pae, <strong>Woo-Jin Ahn</strong>, Koung-Suk Ko, Myo-Tae Lim, Tae-Koo Kang</div>
+   <div class="pub-venue">IOP Conference Series: Materials Science and Engineering, 2019</div>
  </div>
 </div>
