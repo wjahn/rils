@@ -16,8 +16,8 @@ The Robot Intelligence Learning & System (RILS) Lab is dedicated to developing a
 </figure>
 
 ## Research Areas
-- [Reinforcement Learning](/about/research-area/#reinforcement-learning)
-- [Deep Learning Vision](/about/research-area/#deep-learning-vision)  
-- [Applications in Robot Systems & Hardware](/about/research-area/#robotics)
+- [Reinforcement Learning](https://wjahn.github.io/rils/about/research-area/#reinforcement-learning)
+- [Deep Learning Vision](https://wjahn.github.io/rils/about/research-area/#deep-learning-vision)  
+- [Applications in Robot Systems & Hardware](https://wjahn.github.io/rils/about/research-area/#robotics)
 
 
