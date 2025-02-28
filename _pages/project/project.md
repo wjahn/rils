@@ -52,7 +52,7 @@ classes: wide
  <div class="project-content">
    <div class="project-title">채종원 및 양묘장 제초관리 무인화 기술개발</div>
    <div class="project-info">
-     <span class="project-company">산림청 with SNS솔루션, 한국로봇융합연구원</span> |
+     <span class="project-company">산림청</span> |
      <span class="project-period">2025.04 - 2029.12</span>
    </div>
  </div>
