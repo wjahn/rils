@@ -53,7 +53,7 @@ h2 {
       <li><strong>Affiliation:</strong> Dept. of Artificial Intelligence, Inha University</li>
       <li><strong>Position:</strong> Assistant Professor</li>
       <li><strong>Email:</strong> wjahn@inha.ac.kr</li>
-      <li><strong>Office:</strong> TBD </li>
+      <li><strong>Office:</strong> Room 419, Building #5 (South) @ Inha University (5남419) </li>
     </ul>
   </div>
 </div>
