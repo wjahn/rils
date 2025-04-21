@@ -48,6 +48,17 @@ classes: wide
 
 ## Current Projects
 <div class="project-container">
+ <div class="project-number">[2]</div>
+ <div class="project-content">
+   <div class="project-title">어류 수산부산물 부위별 분리 및 품질관리기술 개발</div>
+   <div class="project-info">
+     <span class="project-company">해양수산부</span> |
+     <span class="project-period">2025.04 - 2029.12</span>
+   </div>
+ </div>
+</div>
+
+<div class="project-container">
  <div class="project-number">[1]</div>
  <div class="project-content">
    <div class="project-title">채종원 및 양묘장 제초관리 무인화 기술개발</div>
