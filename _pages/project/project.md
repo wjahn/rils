@@ -70,7 +70,6 @@ classes: wide
 </div>
 
 ## Completed Projects
-<!-- 
 
 
 <div class="project-container">
@@ -215,4 +214,4 @@ classes: wide
      <span class="project-period">2018.03 - 2019.11</span>
    </div>
  </div>
-</div> -->
+</div>
