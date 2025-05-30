@@ -59,9 +59,9 @@ h2 {
 </div>
 
 ## Education
-- Integrated M.S/Ph.D. in Electrical Engineering, Korea University (2018-2024)
-- B.S. in Physics / Electrical Engineering, Korea University (2014-2018)
-- Knox Grammar School, Sydney, Australia (2009-2010)
+- (2018-2024) Integrated M.S/Ph.D. in Electrical Engineering, Korea University 
+- (2014-2018) B.S. in Physics / Electrical Engineering, Korea University 
+- (2009-2010) Knox Grammar School, Sydney, Australia 
 
 ## Work Experience
 - 2025-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Assistant Professor, Inha University
